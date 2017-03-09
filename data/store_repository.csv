@@ -1,0 +1,10 @@
+id,origin,type,desc,grossprice
+1,national,book,book,12.49
+2,national,music,music,14.99
+3,national,food,chocolate bar,0.85
+4,imported,food,box of chocolates,10.0
+5,imported,other,bootle of perfume,47.50
+6,imported,other,bootle of perfume,27.99
+7,national,other,bootle of perfume,18.99
+8,national,medical,packet of headache pills,9.75
+9,imported,food,box of chocolates,11.25
